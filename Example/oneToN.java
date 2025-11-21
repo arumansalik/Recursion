@@ -21,6 +21,4 @@ public class oneToN {
         funBoth(n-1);
         System.out.print(n + " ");
     }
-
-
 }
